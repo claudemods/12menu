@@ -70,5 +70,8 @@ https://www.paypal.com/paypalme/claudemods?country.x=GB&locale
 
 ![Screenshot_20250429_085516](https://github.com/user-attachments/assets/274c988f-d841-4b8e-b3d0-ff5bff3a3519)
 
+![Screenshot_20250429_092300](https://github.com/user-attachments/assets/ed06e521-a212-496a-8d5b-de902b549b39)
+
+
 
 
