@@ -29,7 +29,7 @@
 
 12 menu 
 <div align="center">
-forked from Menu Ditto - plasma 6 by adhe https://www.pling.com/p/2167594/ ADHE
+forked from Menu Ditto - plasma 6 by adhe https://www.pling.com/p/2167594/
 
 ##
 v1.0 29/04/2025 
