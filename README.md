@@ -28,6 +28,8 @@
 
 
 12 menu 
+<div align="center">
+forked from Menu Ditto - plasma 6 by adhe https://www.pling.com/p/2167594/ ADHE
 
 ##
 v1.0 29/04/2025 
@@ -40,11 +42,6 @@ ive fixed the lockscreen button and power button to signout, shutdown, restart  
 
 
 
-##
-
-
-<div align="center">
-forked from https://www.pling.com/p/2167594/ ADHE
 <div align="center">
 i removed the recent documents section
 	<div align="center">
