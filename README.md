@@ -41,7 +41,7 @@ ive fixed the lockscreen button and power button to signout, shutdown, restart  
 
 
 
-	<div align="center">
+<div align="center">
 you can change the size of the menu 
 		<div align="center">
 also the photo shown on menu isnt included thats my account picture
