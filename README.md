@@ -41,9 +41,6 @@ ive fixed the lockscreen button and power button to signout, shutdown, restart  
 
 
 
-
-<div align="center">
-i removed the recent documents section
 	<div align="center">
 you can change the size of the menu 
 		<div align="center">
