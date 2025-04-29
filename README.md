@@ -24,7 +24,7 @@
 
 <div align="center">
 
-[![Version](https://img.shields.io/github/v/release/claudemods/11menu?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/11menu/releases/tag/v1.02)
+[![Version](https://img.shields.io/github/v/release/claudemods/12menu?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/12menu/releases/tag/29-04-2024-v1.0)
 
 
 12 menu 
