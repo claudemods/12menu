@@ -27,7 +27,7 @@
 [![Version](https://img.shields.io/github/v/release/claudemods/11menu?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/11menu/releases/tag/v1.02)
 
 
-11 menu 
+12 menu 
 
 ##
 v1.0 29/04/2025 
