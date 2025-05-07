@@ -34,6 +34,7 @@ forked from Menu Ditto - plasma 6 by adhe https://www.pling.com/p/2167594/
 
 ## 
 v1.02
+<div align="center">
 new enter command and execute in konsole simple enter a command into search bar and push enter
 <div align="center">
 v1.01 06-05-2025
