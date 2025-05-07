@@ -26,13 +26,14 @@
 
 [![Version](https://img.shields.io/github/v/release/claudemods/12menu?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/12menu/releases/tag/v1.02-07-05-2025)
 
-
+##
 12 menu 
 <div align="center">
 forked from Menu Ditto - plasma 6 by adhe https://www.pling.com/p/2167594/
 
 
-## v1.02
+## 
+v1.02
 new enter command and execute in konsole simple enter a command into search bar and push enter
 <div align="center">
 v1.01 06-05-2025
