@@ -34,6 +34,7 @@ forked from Menu Ditto - plasma 6 by adhe https://www.pling.com/p/2167594/
 
 ### guide to install 
  either watch this video ive made on youtube with the link below or follow steps below
+ 
   https://youtu.be/52_kGwmN8rw?si=ayKAydZBiAsFdYiq
 
  download through kde widget store or download from pling and place in /home/$USER/.local/share/plasma/plasmoids/
