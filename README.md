@@ -1,4 +1,4 @@
-<p align="center">
+s<p align="center">
 <img src="https://i.postimg.cc/JhMRf2RZ/claudemods-03-17-2025.gif">	
 
 <p align="center">
@@ -32,7 +32,7 @@
 forked from Menu Ditto - plasma 6 by adhe https://www.pling.com/p/2167594/
 
 ###
-dependencies arch package qt6-base kdeplasma-addons
+dependencies arch packages qt6-base kdeplasma-addons
 
 ### guide to install 
  either watch this video ive made on youtube with the link below or follow steps below
